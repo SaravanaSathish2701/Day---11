@@ -20,6 +20,10 @@
       font-size: medium;
 }
 
+.basics a{
+    color: black;
+}
+
 .content{
     font-size: large;
 }
